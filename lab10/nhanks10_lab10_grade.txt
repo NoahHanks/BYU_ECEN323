@@ -1,0 +1,13 @@
+Lab 10: Grading for nhanks10
+  Deadline: 2022-02-23 23:59:59
+  Submission time: 2022-02-15 18:11:16 (On time)
+ vga.jpg (5/5)
+ vga_sim_new.tcl (3/5)
+  -1:missing class and date in header
+  -1:no end of sim comment
+ move_char.s (18/20)
+  -1:missing main as a subroutine
+  -1:missing class and date in header
+ move_char.bit (30/30)
+  -0:Character moves off of the screen
+Total: (56/60)
