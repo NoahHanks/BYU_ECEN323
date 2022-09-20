@@ -1,0 +1,14 @@
+Lab 3: Grading for nhanks10 (Section 2)
+  Deadline: 2022-01-26 23:59:59
+  Submission time: 2022-01-19 18:34:50 (On time)
+ regfile.sv (10/10)
+ regfile_sim.tcl (2/5)
+  -2:No header, or incorrect header
+  -1:No end of sim comment
+ regfile_top.sv (10/10)
+ regfile_top_sim.tcl (2/5)
+  -2:No header
+  -1:No end of Sim comment
+ regfile_top.bit (10/10)
+ lab3_test_result.txt (20/20)
+Total: (54/60)

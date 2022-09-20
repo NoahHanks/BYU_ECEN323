@@ -1,0 +1,13 @@
+Lab 4: Grading for nhanks10 (Section 2)
+  Deadline: 2022-02-01 23:59:59
+  Submission time: 2022-01-25 20:25:04 (On time)
+ fib_iterative.s (13/15)
+  -1:Need to add the fibinnoci subroutine to the header
+  -1:missing comments for the fibinnoci subroutine
+  -0:the comment for Fibonacci should explain what the subroutine does
+ fib_recursive.s (13/15)
+  -1:fibinnoci is the externaly callable subroutine and should be incluted in the header
+  -1:missing comments on subroutines it needs to say what the subroutine does
+ recursive_exec.txt (15/15)
+ iterative_exec.txt (15/15)
+Total: (56/60)

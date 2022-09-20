@@ -1,0 +1,7 @@
+Lab 6: Grading for nhanks10 (Section 2)
+  Deadline: 2022-02-15 23:59:59
+  Submission time: 2022-02-10 14:39:10 (On time)
+ riscv_multicycle.sv (30/30)
+  -0:Line length over 90 columns
+ lab6_test_result.txt (30/30)
+Total: (60/60)

@@ -1,0 +1,12 @@
+Lab 1: Grading for nhanks10 (Section 2)
+  Deadline: 2022-01-13 23:59:59
+  Submission time: 2022-01-11 17:12:29 (On time)
+ aboutme.txt (4/5)
+  -1:Missing favorite food (from update)
+ UpDownButtonCount.sv (15/15)
+  -0:Make sure you have a comment for *each* module instance
+ UpDownButtonCount_sim.tcl (4/5)
+  -1:No end of simulation comment
+ UpDownButtonCount.jpg (10/10)
+ UpDownButtonCount.bit (25/25)
+Total: (58/60)

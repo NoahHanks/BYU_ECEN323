@@ -1,0 +1,8 @@
+Lab 7: Grading for nhanks10
+  Deadline: 2022-02-23 23:59:59
+  Submission time: 2022-02-15 18:11:16 (On time)
+ iosystem.tcl (5/5)
+ buttoncount.s (20/20)
+  -0:Every single label is not a function or a subroutine. A subroutine is any group of code that executes the ‘ret’ instruction at the end. Like a function that jumps back to where it started when it completes. A subroutine starts with a label but often will have other labels inside of it. ************In the future you will be docked for not including main and any subroutines you have and you will be docked for putting excessive labels in your code
+ multicycle_iosystem.bit (35/35)
+Total: (60/60)

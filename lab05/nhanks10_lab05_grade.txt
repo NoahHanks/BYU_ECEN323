@@ -1,0 +1,8 @@
+Lab 5: Grading for nhanks10 (Section 2)
+  Deadline: 2022-02-08 23:59:59
+  Submission time: 2022-02-08 20:41:30 (On time)
+ riscv_simple_datapath.sv (25/25)
+ riscv_datapath_constants.sv (3/5)
+  -2:Missing Header Block
+ lab5_test_result.txt (30/30)
+Total: (58/60)

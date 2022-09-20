@@ -1,0 +1,16 @@
+Lab 2: Grading for nhanks10 (Section 2)
+  Deadline: 2022-01-19 23:59:59
+  Submission time: 2022-01-13 16:14:58 (On time)
+ alu.sv (10/10)
+ alu_sim.tcl (2/5)
+  -1:No end of file comment
+  -2:No header
+ calc.sv (10/10)
+ calc_sim.tcl (1/5)
+  -2:No header
+  -1:Missing comments
+  -1:No end of simulation comment
+ calc.jpg (5/5)
+ calc.bit (10/10)
+ lab2_test_result.txt (15/15)
+Total: (53/60)
